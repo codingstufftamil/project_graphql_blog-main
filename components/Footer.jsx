@@ -10,7 +10,7 @@ const Footer = () => {
             <span class="ml-3 text-xl text-white"><a href='/'>Make Money</a></span>
           </a>
           <p class="text-sm text-white sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">© 2022 makemoney —
-            <a href="" class="text-white ml-1" rel="noopener noreferrer" target="_blank">@makemoneyfrominternet</a>
+            <a href="" class="text-white ml-1" rel="noopener noreferrer" target="_blank">@makemoneyfrominternets</a>
           </p>
           <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
             <a class="text-white">
